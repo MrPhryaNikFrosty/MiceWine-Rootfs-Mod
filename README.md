@@ -8,6 +8,10 @@ Actually in constant development.
 
 It's use a XServer based on Termux-X11 
 
+### Information
+
+This mod project focused on modifying on rootfs only, so don't mind if you want to request feature in the app because I'm here to mod the rootfs only, not mod the app. If you need that, please request it directly to developer of micewine
+
 ### Compatible Android Versions
 
 Support Android 10+

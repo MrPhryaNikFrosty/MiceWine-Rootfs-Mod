@@ -8,9 +8,9 @@ Actually in constant development.
 
 It's use a XServer based on Termux-X11 
 
-### Information
+### Some Information
 
-This mod project focused on modifying on rootfs only, so don't mind if you want to request feature in the app because I'm here to mod the rootfs only, not mod the app. If you need that, please request it directly to developer of micewine
+This mod project focused on modifying on rootfs only, so don't mind if you want to request feature in the app because I'm here to mod the rootfs only, not mod the app. If you need that, please request it directly to developer of micewine. We will update it regularly based on latest changes in official micewine github
 
 ### Compatible Android Versions
 
@@ -27,6 +27,8 @@ Support Android 10+
 The native driver works well for Xclipse GPUs, Adreno GPUs, Mali GPUs.
 
 About Mali GPUs, Only tested on Mali-G615, Mali-G610, Mali G76 and Mali-G925-Immortalis.
+
+For PowerVR GPUs or any other GPUs, the native driver doesn't compatible yet
 
 Vulkan 1.3 is Recommended for better performance and graphical precision. 1.1 works with DXVK-Stripped-Requirements, but displays various graphical issues.
 
